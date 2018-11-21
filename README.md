@@ -1,14 +1,37 @@
-# TMDb-analysis
 # Project: TMDb Movie Data
 
 ## Table of Contents
 <ul>
+<li><a href="#getting-started">Getting Started</a></li>
 <li><a href="#intro">Introduction</a></li>
 <li><a href="#wrangling">Data Wrangling</a></li>
 <li><a href="#eda">Exploratory Data Analysis</a></li>
 <li><a href="#limitations">Limitations</a></li>
 <li><a href="#conclusions">Conclusions</a></li>
 </ul>
+
+<a id='getting-started'></a>
+
+## Getting Started
+
+This project requires Python and the following Python libraries installed:
+
+- [numpy](http://www.numpy.org/)
+- [pandas](http://pandas.pydata.org/)
+- [matplotlib](http://matplotlib.org/)
+- [seaborn](https://seaborn.pydata.org/)
+
+You will also need to have software installed to run and execute a [Jupyter Notebook](https://jupyter.org/).
+
+If you do not have Python installed yet, install the [Anaconda](https://www.anaconda.com/download/#macos) distribution of Python, which already has the above packages and more included.
+
+### Run
+In a terminal or command window, run the following command:
+
+    jupyter notebook
+    
+This will open the Jupyter Notebook software in your browser and you can navigate to the directory where the file is.
+
 <a id='intro'></a>
 
 ## Introduction
