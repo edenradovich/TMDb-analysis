@@ -90,5 +90,8 @@ This method, however, is not conclusive enough to assume causation. They simply 
 > After working through the data analysis process of wrangling and exploring, and taking the limitations above into consideration, the following conclusions can be made regarding The Movie Database data set:
 
 >> 1) The most popular genres of the total dataset appear to be Adventure and Science Fiction. When looking at the genre popularity over time, Adventure appeared to be the most popular pre-2005 and post-2005 genre.
->
+
+>![Population Over Time](/popularity-over-time.png)
+
 >> 2) A higher Adjusted Revenue is correlated with Vote Count, Adjusted Budget, and Popularity. This however does not indicate causation by any of these variables, as there are limitations with only looking at scatterplots and correlation matrixes.
+>![Correlation Heat Map](/correlation-heatmap.png)
